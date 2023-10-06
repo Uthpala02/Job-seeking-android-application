@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/Posts"
+        android:icon="@drawable/baseline_post_add_24"
+        android:title="Post" />
+
+    <item
+        android:id="@+id/jobs"
+        android:icon="@drawable/baseline_work_24"
+        android:title="@string/bottomNavbar_jobs" />
+
+    <item
+        android:id="@+id/feedback"
+        android:icon="@drawable/baseline_feedback_24"
+        android:title="@string/bottomNavbar_feedback" />
+
+
+    <item
+        android:id="@+id/Settings"
+        android:icon="@drawable/baseline_settings_24"
+        android:title="More" />
+
+
+
+
+</menu>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- For Sign Up and Login -->
+    <dimen name="Title">34sp</dimen>
+    <dimen name="Title_width">164dp</dimen>
+    <dimen name="Title_height">44dp</dimen>
+    <dimen name="Enter_details">18sp</dimen>
+    <dimen name="Sub_details">14sp</dimen>
+    <dimen name="Btn_name">14sp</dimen>
+    <dimen name="Main_img_width">438dp</dimen>
+    <dimen name="Main_img_height">328dp</dimen>
+    <dimen name="Layout_margin">24dp</dimen>
+
+    <!-- Others -->
+    <dimen name="Main_title">34sp</dimen>
+    <dimen name="Name">25sp</dimen>
+    <dimen name="Performance_name">24sp</dimen>
+    <dimen name="Performance_value">20sp</dimen>
+    <dimen name="Stat_name">16sp</dimen>
+    <dimen name="Title_card_width">415dp</dimen>
+    <dimen name="Title_card_height">270dp</dimen>
+</resources>
+

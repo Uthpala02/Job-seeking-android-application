@@ -1,0 +1,122 @@
+<resources>
+    <string name="app_name">BizConnect</string>
+    <string name="title_activity_fetching">FetchingActivity</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+
+    <!-- For Sign Up -->
+    <string name="sign_up">Sign Up</string>
+    <string name="Uname">Username</string>
+    <string name="Password">Password</string>
+    <string name="Email">Email</string>
+    <string name="Select">Select Item</string>
+    <string name="Btn_Signup">Sign Up</string>
+    <string name="Signup_text1">Already signed in ?</string>
+
+    <string name="Signup_text2">Login</string>
+
+    <!-- For Login -->
+    <string name="Log_in">Login</string>
+    <string name="Btn_login">Login</string>
+    <string name="Login_text1">Not signed in yet ?</string>
+    <string name="Login_text2">Sign up</string>
+
+    <!-- For Admin Homepage -->
+    <string name="Admin_Title">Dashboard</string>
+    <string name="Admin_text_1">Users</string>
+    <string name="Admin_text_2">Companies</string>
+    <string name="Admin_text_3">Advertisers</string>
+    <string name="Admin_text_4">App Stats</string>
+
+    <!-- For Admin Users -->
+    <string name="Advertiser_Users_Title">Users</string>
+    <string name="S1">Sample User 1</string>
+    <string name="S2">Sample User 2</string>
+    <string name="S3">Sample User 3</string>
+    <string name="Ad_Users_edit_btn">Edit</string>
+    <string name="Ad_Users_delete_btn">Delete</string>
+    <string name="Edit_users">Edit User</string>
+
+    <!-- For Admin Companies -->
+    <string name="Advertiser_Company_Title">Companies</string>
+    <string name="C1">Sample Company 1</string>
+    <string name="C2">Sample Company 2</string>
+    <string name="C3">Sample Company 3</string>
+    <string name="Edit_company">Edit Company</string>
+
+    <!-- For Admin Performance -->
+    <string name="Admin_Performance_Title">Performance</string>
+    <string name="Ad_revenue_value">0</string>
+    <string name="Ad_revenue">Total Posts</string>
+    <string name="Users_value">0</string>
+    <string name="Users">Users</string>
+    <string name="Companies_value">0</string>
+    <string name="Companies">Companies</string>
+    <string name="Recent_users">New Users</string>
+    <string name="Recent_users_value">0</string>
+    <string name="Recent_companies">New Companies</string>
+    <string name="Recent_companies_value">0</string>
+    <string name="Advertiser_Update_Title" />
+
+    <!-- Custom Toast Messages -->
+    <string name="Employee_Delete_Toast">Deletion Successful</string>
+    <string name="Employee_Update_Toast">Update Successful</string>
+
+    //Post Fragment
+    <string name="add_post">ADD A POST</string>
+    <string name="post_name">Name : </string>
+    <string name="post_email">Email : </string>
+    <string name="post_description">Description :</string>
+    <string name="post_submitButton">Submit</string>
+    //Home Fragment
+    <string name="home_name1">Juliana Ann</string>
+    <string name="home_email1">juliana@gmail.com</string>
+    <string name="home_description1">You might text message a recruiter or someone else in your professional network to briefly express interest in a position. As these are typically informal messages, you might often send these to request a more formal discussion about your qualifications. Similarly, recruiters might send quick text messages to notify applicants at various stages of the hiring process, like confirming the receipt of a resume, sharing interview tips or confirming appointments</string>
+    <string name="home_like1">Like</string>
+    <string name="home_name2">Lissa Anne</string>
+    <string name="home_email2">lissa@gmail.com</string>
+    <string name="home_description2">A job description summarizes the essential responsibilities, activities, qualifications and skills for a role. Also known as a JD, this document describes the type of work performed.A job description should include important company details — company mission, culture and any benefits it provides to employees. It may also specify to whom the position reports and salary range.</string>
+    <string name="home_like2">Like</string>
+    //Job Fragment
+    <string name="job_name1">ICON COMPANY</string>
+    <string name="job_des1">Maintenance Engineer     Full-Time   Colombo</string>
+    <string name="job_name2">ALASKA COMPANY</string>
+    <string name="job_des2">Security Manager     Part-Time     Negombo</string>
+    <string name="job_name3">BRO COMPANY</string>
+    <string name="job_des3">Finance Managers        Full-Time    Chillaw</string>
+    //logout Fragment
+    <string name="logout">Successfully Logout</string>
+    //Profile Fragment
+    <string name="profile_name">Sherwin Ferdinand</string>
+    <string name="profile_job">Software Engineer</string>
+    <string name="profile_education">BSc Honours /Faculty of Computing</string>
+    <string name="profile_address">575/5W Colombo</string>
+    <string name="profile_phone">077-XXXXXXX</string>
+    <string name="profile_email">sherwinferdinand@gmail.com</string>
+    <string name="profile_about">Successful engineers know how to use the right programming languages, platforms, and architectures to develop everything from computer games to network control systems. In addition to building their own systems, software engineers also test, improve, and maintain software built by other engineers. </string>
+    //Edit_Profile
+    <string name="edit_profile">EDIT MY PROFILE</string>
+    <string name="edit_profile_name">Name : </string>
+    <string name="edit_profile_job">Job Title :</string>
+    <string name="edit_profile_education">Education :</string>
+    <string name="edit_profile_address">Address :</string>
+    <string name="edit_profile_phone">Phone Number :</string>
+    <string name="edit_profile_email">E-mail : </string>
+    <string name="edit_profile_about">About :</string>
+    <string name="edit_profile_submitButton">Submit</string>
+    //Bottom Navbar
+    <string name="bottomNavbar_home">Home</string>
+    <string name="bottomNavbar_jobs">Jobs</string>
+    <string name="bottomNavbar_post">Post</string>
+    <string name="bottomNavbar_feedback">Feedback</string>
+    //Drawer
+    <string name="drawer_profile">Profile</string>
+    <string name="drawer_edit">Edit</string>
+    <string name="drawer_image">Image</string>
+    <string name="drawer_logout">Logout</string>
+    //Account Remove
+    <string name="account_remove">Account Removed</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
